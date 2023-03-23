@@ -1,6 +1,6 @@
 # NASE Client <h6>Project Documentation : Author - Puneet Karamchandani / jkaramchandani32@gmail.com</h6>
 
-<a style="color:#009a66;font-size:28px;" href=""><img style="margin-right:12px;" height="25" width="25" src="./src/assets/images/logo.png"/>Quiz Box</a>
+<a style="color:#009a66;font-size:28px;" href="https://github.com/puneetkaramchandani/quizbox-web-app"><img style="margin-right:12px;" height="25" width="25" src="./src/assets/images/logo.png"/>Quiz Box</a>
 
 #### Steps to run the application
 
